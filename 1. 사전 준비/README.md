@@ -3,7 +3,7 @@
 먼저 레포지토리를 복제합니다.
 
 ```bash
-git clone https://github.com/Anna-Jeong-MS/AzureAIFoundryWorkshop.git
+git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
 ```
 
 **Python 3.10 또는 그 이상 버전의 설치가 필요합니다.**
@@ -11,7 +11,7 @@ git clone https://github.com/Anna-Jeong-MS/AzureAIFoundryWorkshop.git
 ## VS Code 구성
 
 1. 브라우저에서 [https://code.visualstudio.com/](https://code.visualstudio.com/)에 접속하여 VS Code를 설치합니다.
-2. VS Code를 실행하고  상단 메뉴의 `File > Open Folder…` 를 클릭 후, 복제한 `AzureAIFoundryWorkshop` 폴더를 엽니다.
+2. VS Code를 실행하고  상단 메뉴의 `File > Open Folder…` 를 클릭 후, 복제한 `AzureAIFoundryWorkshop-Code` 폴더를 엽니다.
 
 ### VS Code 확장 설치
 
