@@ -11,8 +11,9 @@
     ![image.png](./images/image.png)
     
     ```bash
+    AZURE_ENDPOINT="https://<resource>>.services.ai.azure.com/api/projects/<project_name>"
     ENDPOINT="https://<resource>.services.ai.azure.com/models"
-    API_KEY=<api-key>
+    API_KEY="<api-key>"
     ```
     
 3. 왼쪽 메뉴에서 `모델 + 엔드포인트`를 클릭합니다.

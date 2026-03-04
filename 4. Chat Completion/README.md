@@ -7,6 +7,7 @@
     ![image.png](./images/image.png)
     
 2. `Resource group`을 기록해 둡니다.
+
     ![resource group checking](./images/resourcegroup_check.png)
 
 3. 브라우저의 새 탭에서 [`Azure Portal`](https://portal.azure.com/)에 접속합니다.

@@ -1,0 +1,5 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "c:/VSCode/AzureMSFoundryWorkshop-Code/.venv/Scripts/python.exe": true
+    }
+}
