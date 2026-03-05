@@ -1,4 +1,4 @@
-# Microsoft Foundry Workshop
+# Microsoft Foundry Workshop (Code)
 
 ## 개요
 

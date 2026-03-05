@@ -21,6 +21,7 @@ git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
     ![image.png](./images/image.png)
     
 3. 같은 방법으로 `Jupyter`, `Polyglot Notebooks` 확장을 설치합니다.
+> 참고. Polyglot Notebooks 설치 전 .NET SDK 최신버전 설치를 권장합니다.
 
 ### 로컬 환경 구성
 
