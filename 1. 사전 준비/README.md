@@ -26,7 +26,13 @@ git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
 ### 로컬 환경 구성
 
 1. VS Code 상단 메뉴의 Terminal > New Terminal을 클릭합니다.
-2. 하단 터미널에서 아래 명령어를 사용하여 `uv`를 설치합니다.
+2. 하단 터미널에서 복제한 폴더로 이동합니다.
+
+    ```bash
+    cd AzureAIFoundryWorkshop-Code
+    ```
+
+3. 아래 명령어를 사용하여 `uv`를 설치합니다.
 
     ```bash
     # Unix/Linux/macOS
@@ -36,14 +42,14 @@ git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
     powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
     ```
 
-3. venv 환경을 만들고 활성화합니다.
+4. venv 환경을 만들고 활성화합니다.
 
     ```bash
     uv venv
     source .venv/bin/activate  # Windows: .venv\Scripts\activate
     ```
 
-4. 실습을 위해서 아래 패키지들을 설치합니다.
+5. 실습을 위해서 아래 패키지들을 설치합니다.
 
     ```bash
     # Install core Azure AI SDKs and Jupyter requirements
