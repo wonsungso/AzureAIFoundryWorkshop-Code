@@ -1,4 +1,9 @@
-# Microsoft Foundry Workshop (Code)
+> **📌 참고**
+> 이 워크샵은 **Microsoft Foundry 클래식 포털** 기반으로 작성되었습니다.
+> 
+> 새로운 포털 기반 워크샵은 [MicrosoftFoundryWorkshop-Code](https://github.com/wonsungso/MicrosoftFoundryWorkshop-Code/tree/main)을 참조하세요.
+
+# Microsoft Foundry Workshop - Code & Classic Portal
 
 ## 개요
 
