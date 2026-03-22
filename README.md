@@ -1,9 +1,4 @@
-> **📌 참고**
-> 이 워크샵은 **Microsoft Foundry 새로운 포털(2026년 기준)** 기반으로 작성되었습니다.
-> 
-> 기존 Classic 포털 기반 워크샵은 [AzureAIFoundryWorkshop-Code](https://github.com/wonsungso/AzureAIFoundryWorkshop-Code)을 참조하세요.
-
-# Microsoft Foundry Workshop - Code
+# Microsoft Foundry Workshop (Code)
 
 ## 개요
 
@@ -44,7 +39,6 @@
 | [1. 사전 준비](./1.%20사전%20준비/README.md) | 워크샵 실습 환경 구성 |
 | [2. Microsoft Foundry 구성](./2.%20Microsoft%20Foundry%20구성/README.md) | Microsoft Foundry 기본 사용법 학습 및 구성 |
 | [3. 인증 정보 구성](./3.%20인증%20정보%20구성/README.md) | 인증 정보 구성 |
-| [4. Chat Completion](./4.%20Chat%20Completion/README.md) | Azure AI Search 구성 및 Chat Completion, Embeddings, RAG 실습 준비 |
 
 ### 2. 주요 워크샵
 | Topic | Notebooks |
