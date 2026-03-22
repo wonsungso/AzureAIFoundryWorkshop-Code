@@ -6,7 +6,8 @@
 git clone https://github.com/wonsungso/AzureAIFoundryWorkshop-Code.git
 ```
 
-**Python 3.10 또는 그 이상 버전의 설치가 필요합니다.**
+> **참고**
+> **Python 3.10 또는 그 이상 버전의 설치가 필요합니다.**
 
 ## VS Code 구성
 
